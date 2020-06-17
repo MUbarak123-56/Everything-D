@@ -13,10 +13,10 @@ Together as a group, we'll go through a complete cycle of the github workflow to
 
 ```{r make a function to multiply by three}
 mult5 <- function(x){
-  return()
+  return(x * 5)
 }
 
-mult3(2) #Should return the value 10
+mult5(2) #Should return the value 10
 ```
 
 #Setup (Breakout Room)
